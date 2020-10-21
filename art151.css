@@ -1,5 +1,9 @@
-
 html, body {
-  background-color:
-  font-family: Arial;
+  background-color:"white";
+  font-family: arial;
+}
+
+h1{
+  font-size: 40px;
+  color: #BABBCD
 }
